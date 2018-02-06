@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nitesh\Downloads\glew-2.1.0\b\CMakeFiles\2119a4abe55968c9512f29961811d965\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{48C01C9D-6784-36CE-B8F1-DAA1741938D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

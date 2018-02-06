@@ -1,0 +1,8 @@
+C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/glewinfo.dir
+C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/glew.dir
+C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/glew_s.dir
+C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/uninstall.dir
+C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/visualinfo.dir
+C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/INSTALL.dir
+C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/ALL_BUILD.dir
+C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/ZERO_CHECK.dir

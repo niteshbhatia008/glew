@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Nitesh/Downloads/glew-2.1.0/build/cmake/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Nitesh/Downloads/glew-2.1.0/b/CMakeFiles/generate.stamp is up-to-date.
+  glew.c
+  glew_s.vcxproj -> C:\Users\Nitesh\Downloads\glew-2.1.0\b\lib\Debug\libglew32d.lib
